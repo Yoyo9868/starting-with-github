@@ -3,3 +3,5 @@ function name() {
 }
 
 const sub = "dash";
+
+console.log("one");

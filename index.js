@@ -5,3 +5,5 @@ const boy = "sam";
 function add() {
   return "name";
 }
+
+console.log("one");
