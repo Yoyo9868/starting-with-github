@@ -5,3 +5,5 @@ function name() {
 const sub = "dash";
 
 console.log("one");
+
+console.log("two");

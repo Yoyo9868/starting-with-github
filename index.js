@@ -7,3 +7,5 @@ function add() {
 }
 
 console.log("one");
+
+console.log("two");
