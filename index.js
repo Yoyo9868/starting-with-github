@@ -23,3 +23,5 @@ console.log("seven");
 console.log("eight");
 
 console.log("nine");
+
+console.log("ten");
